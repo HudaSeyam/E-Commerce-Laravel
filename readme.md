@@ -5,7 +5,7 @@ This is a **E-commerce platform** built using the **Laravel framework**. It prov
 ## Features
 
 - Product Management: Add, update, delete, and manage products with images, descriptions, and categories.
-- Product Search and Filtering: Advanced product search with filtering by category, price, and rating.
+- Product Search and Filtering: Advanced product search with filtering by category.
 - Product catalog with category filters.
 - **Soft delete functionality** for products and catalog.
 - Shopping cart system (add, remove, update items).
@@ -15,6 +15,7 @@ This is a **E-commerce platform** built using the **Laravel framework**. It prov
   - **Regular users** with access to the website for browsing products, adding items to the cart, and placing orders.
 - User authentication (registration, login).
 - Admin dashboard for managing products, categories, and users.
+- **Review System**: Users can leave star ratings and reviews for products, with a limit of one review per user per product.
 - Responsive front-end design.
   
 ## Live Video Demo
