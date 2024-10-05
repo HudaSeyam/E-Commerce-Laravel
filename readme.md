@@ -1,6 +1,6 @@
 # E-Commerce Laravel Project
 
-This is a simple **E-commerce platform** built using the **Laravel framework**. It provides basic functionality for product listing, shopping cart, and order management.
+This is a **E-commerce platform** built using the **Laravel framework**. It provides basic functionality for product listing, shopping cart, and order management.
 
 ## Features
 
