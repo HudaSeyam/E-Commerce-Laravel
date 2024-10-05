@@ -16,6 +16,9 @@ This is a simple **E-commerce platform** built using the **Laravel framework**. 
 - User authentication (registration, login).
 - Admin dashboard for managing products, categories, and users.
 - Responsive front-end design.
+  
+## Live Video Demo
+You can watch a live demonstration of the project here: [Watch Live Demo](https://link-to-your-live-video.com)
 
 ## Requirements
 
