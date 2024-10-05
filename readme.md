@@ -18,7 +18,7 @@ This is a simple **E-commerce platform** built using the **Laravel framework**. 
 - Responsive front-end design.
   
 ## Live Video Demo
-You can watch a live demonstration of the project here: [Watch Live Demo](https://link-to-your-live-video.com)
+You can watch a live demonstration of the project here: [Watch Live Demo](https://drive.google.com/file/d/1GHGn4kOWJ-8Ie08UIms1nSDcKWYJXMap/view?usp=sharing)
 
 ## Requirements
 
